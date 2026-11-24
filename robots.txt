@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cossairtbrittney-ui.github.io/kalyanank-net-archive/sitemap.xml
